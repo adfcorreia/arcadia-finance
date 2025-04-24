@@ -563,7 +563,7 @@ header('Access-Control-Allow-Headers: Origin, Content-Type, X-Auth-Token');
 								  </div>
 								  <div class="col-4 col-sm-3 col-xxl-2">
 									<div class="profile-tile profile-tile-inlined">
-									  <a class="profile-tile-box profile-tile-modal" data-target="#money_transfer" data-toggle="modal" id="Bart">
+									  <a class="profile-tile-box profile-tile-modal" data-target="#money_transfer" data-toggle="modal" id="Brenda">
 										<div class="pt-avatar-w">
 										  <img alt="" src="img/Bart.jpg">
 										</div>
@@ -575,12 +575,12 @@ header('Access-Control-Allow-Headers: Origin, Content-Type, X-Auth-Token');
 								  </div>
 								  <div class="col-4 col-sm-3 col-xxl-2">
 									<div class="profile-tile profile-tile-inlined">
-									  <a class="profile-tile-box profile-tile-modal" data-target="#money_transfer" data-toggle="modal" id="Or">
+									  <a class="profile-tile-box profile-tile-modal" data-target="#money_transfer" data-toggle="modal" id="Robert">
 										<div class="pt-avatar-w">
 										  <img alt="" src="img/Or.jpg">
 										</div>
 										<div class="pt-user-name">
-										  Or<br/>Yaacov
+										 Robert<br/>Simpson
 										</div>
 									  </a>
 									</div>
@@ -599,7 +599,7 @@ header('Access-Control-Allow-Headers: Origin, Content-Type, X-Auth-Token');
 								  </div>
 								  <div class="col-4 d-sm-none d-xxl-block col-xxl-2">
 									<div class="profile-tile profile-tile-inlined">
-									  <a class="profile-tile-box profile-tile-modal" data-target="#money_transfer" data-toggle="modal" id="Alfredo">
+									  <a class="profile-tile-box profile-tile-modal" data-target="#money_transfer" data-toggle="modal" id="Anna">
 										<div class="pt-avatar-w">
 										  <img alt="" src="img/Alfredo.jpg">
 										</div>
