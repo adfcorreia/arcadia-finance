@@ -5,7 +5,7 @@ services:
     build: ./main-app
     container_name: arcadia-mainapp
     ports:
-      - "8080:80"
+      - "8180:80"
     networks:
       - arcadia-net
 
@@ -13,7 +13,7 @@ services:
     build: ./back-end
     container_name: arcadia-backend
     ports:
-      - "8081:80"
+      - "8181:80"
     networks:
       - arcadia-net
 
@@ -21,7 +21,7 @@ services:
     build: ./app2
     container_name: arcadia-app2
     ports:
-      - "8082:80"
+      - "8182:80"
     networks:
       - arcadia-net
 
@@ -29,7 +29,7 @@ services:
     build: ./app3
     container_name: arcadia-app3
     ports:
-      - "8083:80"
+      - "8183:80"
     networks:
       - arcadia-net
 
