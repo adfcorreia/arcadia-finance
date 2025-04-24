@@ -556,7 +556,7 @@ header('Access-Control-Allow-Headers: Origin, Content-Type, X-Auth-Token');
 										  <img alt="" src="img/1_person.png">
 										</div>
 										<div class="pt-user-name">
-										  Vincent<br/>Lavergne
+										  Vincent<br/>Thompsone
 										</div>
 									  </a>
 									</div>
@@ -568,7 +568,7 @@ header('Access-Control-Allow-Headers: Origin, Content-Type, X-Auth-Token');
 										  <img alt="" src="img/Bart.jpg">
 										</div>
 										<div class="pt-user-name">
-										  Bart<br/>Salaets
+										  Brenda<br/>de Jong
 										</div>
 									  </a>
 									</div>
@@ -592,7 +592,7 @@ header('Access-Control-Allow-Headers: Origin, Content-Type, X-Auth-Token');
 										  <img alt="" src="img/Phillipe.jpg">
 										</div>
 										<div class="pt-user-name">
-										  Philippe<br/>Cloup
+										  Philippe<br/>Kostas
 										</div>
 									  </a>
 									</div>
@@ -604,7 +604,7 @@ header('Access-Control-Allow-Headers: Origin, Content-Type, X-Auth-Token');
 										  <img alt="" src="img/Alfredo.jpg">
 										</div>
 										<div class="pt-user-name">
-										  Alfredo<br/>Vistola
+										  Anna<br/>Delgado
 										</div>
 									  </a>
 									</div>
