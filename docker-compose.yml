@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+  mainapp:
+    build: ./main-app
+    container_name: arcadia-mainapp
+    ports:
+      - "8080:80"
+    networks:
+      - arcadia-net
+
+  backend:
+    build: ./back-end
+    container_name: arcadia-backend
+    ports:
+      - "8081:80"
+    networks:
+      - arcadia-net
+
+  app2:
+    build: ./app2
+    container_name: arcadia-app2
+    ports:
+      - "8082:80"
+    networks:
+      - arcadia-net
+
+  app3:
+    build: ./app3
+    container_name: arcadia-app3
+    ports:
+      - "8083:80"
+    networks:
+      - arcadia-net
+
+networks:
+  arcadia-net:
+    driver: bridge
+

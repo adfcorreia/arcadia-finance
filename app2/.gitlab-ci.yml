@@ -1,0 +1,13 @@
+image: docker:19.03.1
+
+services:
+  - docker:19.03.1-dind
+
+before_script:
+  - docker login registry.gitlab.com -u $reg_user -p $reg_token
+
+build:
+  stage: build
+  script:
+    - docker build -t registry.gitlab.com/$reg_org/app2/app2:latest .
+    - docker push registry.gitlab.com/$reg_org/app2/app2:latest
