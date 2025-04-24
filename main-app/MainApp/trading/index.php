@@ -47,11 +47,11 @@ header('Access-Control-Allow-Headers: Origin, Content-Type, X-Auth-Token');
           <div class="menu-and-user">
             <div class="logged-user-w">
               <div class="avatar-w">
-                <img alt="" src="img/Matthieu.jpg">
+                <img alt="" src="img/Johns.jpg">
               </div>
               <div class="logged-user-info-w">
                 <div class="logged-user-name">
-                  Matthieu Dierick
+                  John Smith
                 </div>
                 <div class="logged-user-role">
                   Bank customer
@@ -245,16 +245,16 @@ header('Access-Control-Allow-Headers: Origin, Content-Type, X-Auth-Token');
               <div class="logged-user-w">
                 <div class="logged-user-i">
                   <div class="avatar-w">
-                    <img alt="" src="img/Matthieu.jpg">
+                    <img alt="" src="img/Johns.jpg">
                   </div>
                   <div class="logged-user-menu color-style-bright">
                     <div class="logged-user-avatar-info">
                       <div class="avatar-w">
-                        <img alt="" src="img/Matthieu.jpg">
+                        <img alt="" src="img/Johns.jpg">
                       </div>
                       <div class="logged-user-info-w">
                         <div class="logged-user-name">
-                          Matthieu Dierick
+                          John Smith
                         </div>
                         <div class="logged-user-role">
                           Bank customer
@@ -553,7 +553,7 @@ header('Access-Control-Allow-Headers: Origin, Content-Type, X-Auth-Token');
 									<div class="profile-tile profile-tile-inlined">
 									  <a class="profile-tile-box profile-tile-modal" data-target="#money_transfer" data-toggle="modal" id="Vincent">
 										<div class="pt-avatar-w">
-										  <img alt="" src="img/Vincent.jpg">
+										  <img alt="" src="img/1_person.png">
 										</div>
 										<div class="pt-user-name">
 										  Vincent<br/>Lavergne

@@ -9,7 +9,7 @@
 	$user=$_POST["username"];
 	$pass=$_POST["password"];
 
-	if ($user!="matt" || $pass!="ilovef5")
+	if ($user!="jsmith" || $pass!="ilovef5")
 	{
 		header("Location: login.php"); /* Redirect browser */
 		$_SESSION['error'] = 1;

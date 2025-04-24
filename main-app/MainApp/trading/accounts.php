@@ -572,7 +572,7 @@ if (!(isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true))
 									  <img alt="" src="img/Vincent.jpg">
 									</div>
 									<div class="pt-user-name">
-									  Vincent<br/>Lavergne
+									  Vincent<br/>van Noord
 									</div>
 								  </a>
 								</div>
@@ -584,7 +584,7 @@ if (!(isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true))
 									  <img alt="" src="img/Bart.jpg">
 									</div>
 									<div class="pt-user-name">
-									  Bart<br/>Salaets
+									  Brigit<br/>Smith
 									</div>
 								  </a>
 								</div>
@@ -596,7 +596,7 @@ if (!(isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true))
 									  <img alt="" src="img/Or.jpg">
 									</div>
 									<div class="pt-user-name">
-									  Or<br/>Yaacov
+									  Tom<br/>Tuteleers
 									</div>
 								  </a>
 								</div>
@@ -608,7 +608,7 @@ if (!(isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true))
 									  <img alt="" src="img/Sven.jpg">
 									</div>
 									<div class="pt-user-name">
-									  Philippe<br/>Mueller
+									  Philippe<br/>Mariano
 									</div>
 								  </a>
 								</div>
@@ -620,7 +620,7 @@ if (!(isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true))
 									  <img alt="" src="img/Alfredo.jpg">
 									</div>
 									<div class="pt-user-name">
-									  Alfredo<br/>Vistola
+									  Anna<br/>Costello
 									</div>
 								  </a>
 								</div>
@@ -632,7 +632,7 @@ if (!(isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true))
 									  <img alt="" src="img/Gert.jpg">
 									</div>
 									<div class="pt-user-name">
-									  Gert<br/>Wolfs
+									  Gert<br/>de Graaf
 									</div>
 								  </a>
 								</div>
